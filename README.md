@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Dahabu, professional software developer making the world a better place to both developers and end users by creating great and simple to use APIs and UIs.
+I'm Dahabu, professional software developer making the world a better place to both developers and end users by creating great and simple to use **APIs** and **UIs**.
 
 I work at [iPFSoftwares](https://www.ipfsoftwares.com). If you would like to discuss anything about my work or personal projects, you can follow me on [Twitter](https://twitter.com/mkawa125).
 

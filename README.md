@@ -4,6 +4,7 @@ I'm Dahabu, professional software developer making the world a better place to b
 
 I work at [iPFSoftwares](https://www.ipfsoftwares.com). If you would like to discuss anything about my work or personal projects, you can follow me on [Twitter](https://twitter.com/mkawa125).
 
+![Dahabu's github stats](https://github-readme-stats.vercel.app/api?username=mkawa125)
 
 <!--
 **mkawa125/mkawa125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!--START_SECTION:waka-->
-```text
-![Dahabu's github stats](https://github-readme-stats.vercel.app/api?username=mkawa125)
-```
-<!--END_SECTION:waka-->

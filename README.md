@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+![Dahabu's github stats](https://github-readme-stats.vercel.app/api?username=mkawa125)
 ```
 <!--END_SECTION:waka-->

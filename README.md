@@ -6,6 +6,9 @@ I work at [iPFSoftwares](https://www.ipfsoftwares.com). If you would like to dis
 
 ![Dahabu's github stats](https://github-readme-stats.vercel.app/api?username=mkawa125)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **mkawa125/mkawa125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

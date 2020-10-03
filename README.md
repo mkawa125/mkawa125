@@ -8,7 +8,11 @@ I work at [iPFSoftwares](https://www.ipfsoftwares.com). If you would like to dis
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Blade Template   16 hrs 50 mins  █████████████████▒░░░░░░░   68.89 % 
+PHP              5 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.32 % 
+CSS              1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+HTML             41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
 

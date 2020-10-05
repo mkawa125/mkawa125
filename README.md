@@ -8,9 +8,9 @@ I work at [iPFSoftwares](https://www.ipfsoftwares.com). If you would like to dis
 
 <!--START_SECTION:waka-->
 ```text
-Blade Template   16 hrs 50 mins  █████████████████▓░░░░░░░   71.22 % 
-PHP              5 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.08 % 
-CSS              46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Blade Template   16 hrs 50 mins  █████████████████▓░░░░░░░   71.33 % 
+PHP              5 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.11 % 
+CSS              46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 JavaScript       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```

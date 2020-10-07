@@ -8,11 +8,11 @@ I work at [iPFSoftwares](https://www.ipfsoftwares.com). If you would like to dis
 
 <!--START_SECTION:waka-->
 ```text
-Blade Template   18 hrs 49 mins  ██████████████████▒░░░░░░   72.77 % 
-PHP              5 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.90 % 
-CSS              34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-JavaScript       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Other            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Blade Template   22 hrs 41 mins  ███████████████████▓░░░░░   78.27 % 
+PHP              5 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+JavaScript       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Other            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+CSS              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 

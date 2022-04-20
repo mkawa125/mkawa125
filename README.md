@@ -2,7 +2,7 @@
 
 I'm Dahabu, professional software developer making the world a better place to both developers and end users by creating great and simple to use **APIs** and **UIs**.
 
-I work at [iPFSoftwares](https://www.ipfsoftwares.com). If you would like to discuss anything about my work or personal projects, you can follow me on [Twitter](https://twitter.com/mkawa125).
+I work at [iPFSoftwares](https://www.simusolar.com). If you would like to discuss anything about my work or personal projects, you can follow me on [Twitter](https://twitter.com/mkawa125).
 
 ![Dahabu's github stats](https://github-readme-stats.vercel.app/api?username=mkawa125)
 

@@ -17,9 +17,9 @@ Other            12 mins         ░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-- 🔭 I’m currently working on 
-- - 🌱 I’m currently learning Flutter
-- - 💬 Ask me about Laravel, NodeJs, DevOps
+- 🔭 I’m currently work as backend developer 
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about Laravel, NodeJs, DevOps
 
 <!--
 

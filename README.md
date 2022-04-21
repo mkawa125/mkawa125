@@ -13,9 +13,6 @@ I currently work at [Simusolar](https://www.simusolar.com). If you would like to
 - 📫 How to reach me: dahabusaidi@gmail.com
 - 😄 Pronouns: He/Him
 
-![Dahabu's github stats](https://github-readme-stats.vercel.app/api?username=mkawa125)
-
-
 
 <!--START_SECTION:waka-->
 ```text

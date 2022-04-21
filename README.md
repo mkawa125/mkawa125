@@ -1,8 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Dahabu Saidi</h1>
+<p>
+  I'm a professional software developer making the world a better place to both developers and end users by creating great and simple to use <b>APIs</b> and <b>UIs</b>.
+🌟.</p>
 
-I'm Dahabu, professional software developer making the world a better place to both developers and end users by creating great and simple to use **APIs** and **UIs**.
+I currently work at [Simusolar](https://www.simusolar.com). If you would like to discuss anything about my work or personal projects, you can follow me on [Twitter](https://twitter.com/mkawa125).
 
-I work at [Simusolar](https://www.simusolar.com). If you would like to discuss anything about my work or personal projects, you can follow me on [Twitter](https://twitter.com/mkawa125).
+<hr>
 
 - 🔭 I’m currently work as backend developer 
 - 🌱 I’m currently learning Flutter

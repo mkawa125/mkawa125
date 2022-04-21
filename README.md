@@ -10,9 +10,10 @@ I currently work at [Simusolar](https://www.simusolar.com). If you would like to
 - 🔭 I’m currently work as backend developer 
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything
-- 📫 How to reach me: dahabusaidi@gmail.com
+- 📫 How to reach me: You can shoot me an email at dahabusaidi@gmail.com I will respond to it as soon as I can
 - 😄 Pronouns: He/Him
 
+<hr>
 
 <!--START_SECTION:waka-->
 ```text

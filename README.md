@@ -16,6 +16,7 @@ I currently work at [Simusolar](https://www.simusolar.com). If you would like to
 ![Dahabu's github stats](https://github-readme-stats.vercel.app/api?username=mkawa125)
 
 
+
 <!--START_SECTION:waka-->
 ```text
 Blade Template   24 hrs 41 mins  ████████████████████▒░░░░   80.93 % 

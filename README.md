@@ -4,6 +4,12 @@ I'm Dahabu, professional software developer making the world a better place to b
 
 I work at [Simusolar](https://www.simusolar.com). If you would like to discuss anything about my work or personal projects, you can follow me on [Twitter](https://twitter.com/mkawa125).
 
+- 🔭 I’m currently work as backend developer 
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about anything
+- 📫 How to reach me: dahabusaidi@gmail.com
+- 😄 Pronouns: He/Him
+
 ![Dahabu's github stats](https://github-readme-stats.vercel.app/api?username=mkawa125)
 
 
@@ -16,10 +22,6 @@ CSS              12 mins         ▒░░░░░░░░░░░░░░�
 Other            12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 <!--END_SECTION:waka-->
-
-- 🔭 I’m currently work as backend developer 
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about Laravel, NodeJs, DevOps
 
 <!--
 

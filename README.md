@@ -17,6 +17,7 @@ I currently work at [Simusolar](https://www.simusolar.com). If you would like to
 <hr>
 
 <!--START_SECTION:waka-->
+<!--
 ```text
 Blade Template   24 hrs 41 mins  ████████████████████▒░░░░   80.93 % 
 PHP              5 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 

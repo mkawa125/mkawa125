@@ -3,7 +3,7 @@
   I'm a professional software developer making the world a better place to both developers and end users by creating great and simple to use <b>APIs</b> and <b>UIs</b>.
 </p>
 
-I currently work at [Simusolar](https://www.simusolar.com). If you would like to discuss anything about my work or personal projects, you can follow me on [Twitter](https://twitter.com/mkawa125) or you can shot an email at dahabusaidi@gmail.com
+I currently work at [Simusolar](https://www.simusolar.com). If you would like to discuss anything about my work or personal projects, you can follow me on [Twitter](https://twitter.com/mkawa125) or you can shoot an email at dahabusaidi@gmail.com
 
 <hr>
 

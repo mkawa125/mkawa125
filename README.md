@@ -7,7 +7,7 @@ I currently work at [Simusolar](https://www.simusolar.com). If you would like to
 
 <hr>
 
-#### Hear more about me 😎
+#### Hear more about me
 - 🔭 I’m currently work as backend developer 
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything

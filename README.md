@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dahabu Saidi</h1>
+<h1 align="center">Hi there 👋 , I'm Dahabu Saidi</h1>
 <p>
   I'm a professional software developer making the world a better place to both developers and end users by creating great and simple to use <b>APIs</b> and <b>UIs</b>.
 </p>
